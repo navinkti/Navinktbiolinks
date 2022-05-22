@@ -30,12 +30,12 @@
     "chalk": "^4.1.2",
     "node-fetch": "^2.6.7"
   },
-  "homepage": "https://github.com/HiDeaUp/pH7BioLinks",
+  "homepage": "https://github.com/Navinkt/Navinktbiolinks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HiDeaUp/pH7BioLinks.git"
+    "url": "https://github.com/Navinkt/Navinktbiolinks"
   },
   "bugs": {
-    "url": "https://github.com/HiDeaUp/pH7BioLinks/issues"
+    "url": "https://github.com/Navinkt/Navinktbiolinks"
   }
 }
