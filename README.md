@@ -16,7 +16,7 @@ If you edit the script on your machine, you will have to run `npm link` to local
 
 Me, I'm Navin Kumar a programmatic and passionate software developer who enjoys challenges and continuous learning on a daily basis! 👨‍🏭
 
-You can reach me at _navinpatnacitynav@gmail.com
+You can reach me at navinpatnacitynav@gmail.com
 
 ![My Business Card npm generator](outputnpx.jpg)
 
