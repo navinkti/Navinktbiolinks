@@ -1,0 +1,41 @@
+{
+  "name": "navinktbiolinks",
+  "version": "1.0.1",
+  "description": "A fun way to generate business card:D",
+  "keywords": [
+    "card",
+    "business card",
+    "bio links",
+    "npm business card",
+    "business",
+    "card",
+    "npm",
+    "buisness",
+    "navinkt",
+    "Navinkt",
+    "Navin Kumar",
+    "Navin"
+  ],
+  "main": "./bin/biolinks.js",
+  "bin": {
+    "navinktbiolinks": "./bin/biolinks.js"
+  },
+  "scripts": {
+    "start": "node ./bin/biolinks.js"
+  },
+  "author": "Navin Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.7"
+  },
+  "homepage": "https://github.com/HiDeaUp/pH7BioLinks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HiDeaUp/pH7BioLinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HiDeaUp/pH7BioLinks/issues"
+  }
+}
