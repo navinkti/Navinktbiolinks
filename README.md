@@ -18,5 +18,5 @@ Me, I'm Navin Kumar a programmatic and passionate software developer who enjoys 
 
 You can reach me at _navinpatnacitynav@gmail.com
 
-![My Business Card npm generator](output.jpg)
+![My Business Card npm generator](outputnpx.jpg)
 
