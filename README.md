@@ -1,7 +1,7 @@
 # 🏆 CLI Bio Links - Business Card
 
 Generate easily your business card through the terminal (for nerds 🤓).
-
+Download the whole code
 ## 👨‍💻 Run my business card
 
 ```bash
